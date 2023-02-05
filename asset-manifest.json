@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beckley-project/static/css/main.cbe320eb.css",
+    "main.js": "/beckley-project/static/js/main.b825eb0b.js",
+    "index.html": "/beckley-project/index.html",
+    "main.cbe320eb.css.map": "/beckley-project/static/css/main.cbe320eb.css.map",
+    "main.b825eb0b.js.map": "/beckley-project/static/js/main.b825eb0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe320eb.css",
+    "static/js/main.b825eb0b.js"
+  ]
+}
